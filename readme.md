@@ -9,3 +9,7 @@
 -Backend(Node.js)
 -Data Science 
 
+#My hobbies
+
+-Gymming 
+-Gaming 
