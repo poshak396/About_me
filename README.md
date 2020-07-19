@@ -7,4 +7,9 @@
 
 - Frontend( HTML,CSS(SASS),Javascript)
 - Backend(Node.js)
-- Data Science 
+- Data Science
+
+# My hobbies
+
+- Gymming 
+- Gaming 
